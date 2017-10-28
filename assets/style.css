@@ -1,3 +1,12 @@
+nav.navbar.navbar-toggleable-md.navbar-light.bg-faded{
+	position:fixed;
+	top:0px;
+	width: 100%;
+	z-index:9999;
+}
+#multimedia{
+	margin-top: 70px;
+}
 .gallery{
 	border:3px solid #ccc;
 	border-radius:10px;
